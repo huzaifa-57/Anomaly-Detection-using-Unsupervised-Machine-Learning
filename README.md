@@ -8,8 +8,14 @@ To start the project we have to download Pandas and Numpy. It is done by using t
 The type command:
 
  `pip install numpy`
+ 
+ Also type the command:
+ 
+ `pip install matplotlib`
+ 
+ Matplotlib is used to plt the data on graphs.
 
-Remember type these commands in Command Prompt or Windows Powershell or Terminal.
+Remember that type these commands in Command Prompt or Windows Powershell or Terminal.
 
 Then after the installation type the coommand:
 
